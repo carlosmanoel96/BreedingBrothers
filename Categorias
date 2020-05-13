@@ -1,13 +1,13 @@
 <channels>
 <channel>
-<name>FILMES</name>
+<name>[COLOR mediumspringgreen]FILMES[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
 <info>
 
 
-- Grandes Obras Cinematográficas para a Familia -</info>
+[COLOR mediumspringgreen]|[/COLOR]- Grandes Obras Cinematográficas para a Familia -[COLOR mediumspringgreen]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -15,14 +15,14 @@
 
 <channels>
 <channel>
-<name>SÉRIES</name>
+<name>[COLOR mediumspringgreen]SÉRIES[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
 <info>
 
 
-- As melhores Séries à sua disposição -</info>
+[COLOR mediumspringgreen]|[/COLOR]- As melhores Séries à sua disposição -[COLOR mediumspringgreen]|[/COLOR]</info>
 </channel>
 </channels>
 
