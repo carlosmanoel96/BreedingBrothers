@@ -1,14 +1,10 @@
 <item>
-<title>Liga da Justica - Guerra<title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0BzlI-4uO2KULRHBicGNqRmxxTms/view?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
+<title>Colecao Liga da Justica<title>
 
-<item>
-<title>Liga da Justica - Trono de Atlantis<title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0BzlI-4uO2KULOG1wanlKby02ckk/view?usp=drivesdk</link>
+<link>plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0BzlI-4uO2KULRHBicGNqRmxxTms/view$$lsname= HD - Liga da Justiça - Guerra</link>
+
+<link>plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0BzlI-4uO2KULOG1wanlKby02ckk/view$$lsname= HD - Liga da Justiça - O Trono de Atlantis</link>
+
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
